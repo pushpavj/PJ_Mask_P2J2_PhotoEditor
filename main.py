@@ -1,8 +1,8 @@
 #<------Image Editor Project using Python [Tkinter]------>
-#  >> Mrunal Babar [1906005]
-#  >> Nikita Choudhari [1906018]
-#  >> Neha Kale [1906051]
-#  >> Pratiksha Kolpe [1906065]
+#  >> Team: PJ MASKS P2J2
+#  >> Pushpa V J 
+#  >> Poornima V J
+#  
 
 # <------Importing necessary Modules------>
 from tkinter import *

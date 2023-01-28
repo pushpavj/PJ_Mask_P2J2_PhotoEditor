@@ -9,11 +9,11 @@ Python concepts, Pillow library and Tkinter package has  been used to develop th
 
 ## **Output:**
 
-![Image Editor]()
+![Image Editor](https://github.com/pushpavj/PJ_Mask_P2J2_PhotoEditor/blob/main/output.png)
 
 ### Image before editing
-![Image_before]()
+![Image_before](https://github.com/pushpavj/PJ_Mask_P2J2_PhotoEditor/blob/main/before_image.jpg)
 
 ### Image after editing
-![Image_after]()
+![Image_after](https://github.com/pushpavj/PJ_Mask_P2J2_PhotoEditor/blob/main/after_image.jpg)
 
